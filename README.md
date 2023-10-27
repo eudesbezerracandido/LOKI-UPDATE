@@ -19,6 +19,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JFW25OP3FJPZLSK2XWLLDNHRSO4O3KDM$nome=EP.1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VJCO3K7Z2MTPIAHLERLNFMVC2LRURTIS$nome=EP.2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BG47WI6K5IXCK66CSBJYBHYSS6UNLQRR$nome=EP.3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YZTPA3TCXRMS3ZAINXZKPZ7QFGJ5Y6M3$nome=EP.4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/inw8NgN2L7NmCIVAB0ULxdi1nPW.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Loki, mais conhecido como Deus da Trapaça, consegue roubar o Tesseract dos Vingadores durante a missão de recuperar as Joias do Infinito. Com o poder da gema do espaço, o Asgardiano começa a pular no tempo com a intenção de chegar a Midgard. Ao longo de sua jornada, ele acaba interferindo em momentos importantes da história da humanidade - seja para cumprir seus próprios objetivos, seja para se divertir um pouco. O que ele não sabe é que sua intervenção pode gerar uma catástrofe nas linhas do tempo e, assim, colocar em risco todo o universo.</info>
